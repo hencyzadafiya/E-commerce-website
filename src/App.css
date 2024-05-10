@@ -1,0 +1,88 @@
+*{
+  font-family:   'Creepster', display; ;
+}
+
+/* header start  */
+  .logo{
+    font-size: 50px;
+  }
+  .icn span{
+    margin-left: 20px;
+  }
+
+                              /* header end  */
+                              /* collection start  */
+.apage{
+  background: #f8f8f8 !important;
+}
+.call{
+  font-size: 100px;
+  font-weight: 500;
+}
+.call1{ 
+  font-size: 70px;
+  font-weight: 500;
+}
+.block-20 ,.img1 ,.imgc{
+  overflow: hidden;
+  background-size: cover;
+  background-position: center center;
+  display: block;
+}
+.block-20{
+  width: 100%;
+  height: 533px;
+}
+.line{
+  height: 2px;
+  width: 100px;
+  background-color: black;
+  position: absolute;
+}
+.img1{
+  width: 100%;
+  height: 266px ;
+}
+.imgc{
+  width: 100%;
+  height: 300px;  
+}
+.price{
+  text-align: center;
+}     
+           /* footer start  */
+.call2{
+  font-size: 40px;
+  font-weight: 550;
+}
+
+/* new arrivals start  */
+
+.new{
+  background-image: url(../src/images/background/img12.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 500px;
+  width: 100%;
+  background-color: white;
+}
+.cate{
+  background-color: white;
+}
+.cate1{
+  background-color: white;
+  border: 1px solid black;
+}
+.head{
+  font-size: 130px ;
+  background-color: rgba(205, 204, 204, 0.644);
+  opacity: 0.4;
+
+}
+.line1{
+  height: 2px;
+  width: 100px;
+  background-color: white;
+  position: absolute;
+}
